@@ -4,7 +4,7 @@ version = "4.0.1"
 description = "Python Client for Google Cloud Auth"
 readme = "README.rst"
 
-repository = "https://github.com/talkiq/gcloud-aio"
+repository = "https://github.com/KoffieLabs/gcloud-aio"
 authors = ["Vi Engineering <voiceai-eng@dialpad.com>"]
 license = "MIT"
 
